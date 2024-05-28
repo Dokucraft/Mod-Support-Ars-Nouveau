@@ -1,0 +1,10 @@
+Support developed by NiceGuyNate aka swimfreak
+
+- Majority of textures are custom
+- fruits developed using outlines of Pams Support by KuruKuruDaza fruits (pomegranite, pepper, rutabega, dragonfruit, juniper berry)
+- Scroll by Kiajinn #11883
+- Ring formatting standard from LudwigVonStanderburg #29543
+- Potion flask from Slye_Fox #22997
+- Dokucraft high used for bow texture
+- #24832 used for wand starting point
+- MiloTheDevious #26788 used for sword design starting point
